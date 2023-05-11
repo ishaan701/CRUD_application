@@ -17,4 +17,3 @@ public class MycoolappApplication {
 	//curl -iXPOST http://localhost:8080/api/employees -H "Content-Type: application/json" --data-raw '{"emp_name": "Ishaan", "emp_salary": 100000, "emp_age": 21, "emp_city": "Patna"}'
 
 }
-`
