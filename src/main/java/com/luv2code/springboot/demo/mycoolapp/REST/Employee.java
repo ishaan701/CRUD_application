@@ -89,4 +89,8 @@ public class Employee {
         return "rainy weather";
     }
 
+    public String check(){
+        System.out.println("This is to check the branch concepts");
+    }
+
 }
