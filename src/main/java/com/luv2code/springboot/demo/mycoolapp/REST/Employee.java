@@ -84,4 +84,9 @@ public class Employee {
                 ", emp_city='" + emp_city + '\'' +
                 '}';
     }
+
+    public String its_rainy(){
+        return "rainy weather";
+    }
+
 }
